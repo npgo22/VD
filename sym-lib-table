@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "APRLPRints-symbols") (type "KiCad") (uri "${KIPRJMOD}/external/APRLPrints/APRLPRints-symbols.kicad_sym") (options "") (descr ""))
+	(lib (name "libvd") (type "KiCad") (uri "${KIPRJMOD}/external/lib/libvd.kicad_sym") (options "") (descr ""))
+)

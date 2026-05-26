@@ -1,0 +1,26 @@
+# KiCAD Backups
+VD-backups
+fp-info-cache
+\#auto_saved_files#
+~*
+**old
+**bak
+*-erc.txt
+*-drc.txt
+BoM
+kibot*
+**/*lck
+*_prl
+output
+
+jlcpcb
+jlcpcb/*
+
+Boardview
+Bom
+Pcbprint
+Schematic
+JLCPCB
+*.log
+.history
+production
